@@ -1,1 +1,2 @@
 CHecking the staged deletion
+Checking the difference function
