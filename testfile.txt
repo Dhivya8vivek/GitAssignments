@@ -1,1 +1,2 @@
 CHecking the staged deletion
+Updated the test file for changes in working directory file.
