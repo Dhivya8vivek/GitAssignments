@@ -1,7 +1,1 @@
-CHecking the staged deletion
-<<<<<<< HEAD
-Updated the test file for changes in working directory file.
-=======
-Checking the difference function
->>>>>>> test
-Hello
+Hello!! Just updated the testfile to check the changes
